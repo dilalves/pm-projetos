@@ -1,0 +1,32 @@
+body{
+background-color: ##27ae60;
+font-family: 'Oswald', sans-serif;
+}
+
+Li{
+list-style: none;    
+height: 150px;
+background-color: #27ae60;
+color: #fff;
+margin-bottom: 4px;
+padding: 12px;
+font-size: 20px;  
+align-content: center;
+vertical-align: center;
+}
+
+img .esquerda {
+    align-content: flex-end;
+    align-items: center
+}
+
+a{
+ color: #fff;
+ text-decoration: none;    
+ margin-bottom: 18px;
+ margin-top: 10px;    
+ padding: 60px 60px 60px 60px;
+ text-align: center;
+ }
+
+
